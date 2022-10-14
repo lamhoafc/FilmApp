@@ -7,6 +7,6 @@
     <string name="menu_search">Search</string>
     <string name="menu_short">Short</string>
     <string name="menu_downloads">Downloads</string>
-
+    <string name="default_web_client_id" translatable="false">898840179784</string>
     <string name="text_duracao">%s min</string>
 </resources>
